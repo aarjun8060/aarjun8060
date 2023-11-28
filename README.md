@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_28159021.htm#page=2&query=software%20development%20banner&position=6&from_view=keyword&track=ais&uuid=9b9bc76e-1481-43df-a42d-7617396237ef" align="center" style="width: 100%" />
+<img src="https://www.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_28159021.htm#page=2&query=software%20development%20banner&position=6&from_view=keyword&track=ais&uuid=9b9bc76e-1481-43df-a42d-7617396237ef" align="center"  />
 </div>  
   
 
