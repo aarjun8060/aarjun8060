@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://www.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_28159021.htm#page=2&query=software%20development%20banner&position=6&from_view=keyword&track=ais&uuid=9b9bc76e-1481-43df-a42d-7617396237ef" align="center"  />
-</div>  
+![logo](https://github.com/aarjun8060/aarjun8060/blob/main/github_cover.jpg)
   
 
 ### <div align="center">Hey there! 👋 I'm Arjun Singh, a software developer passionate about building meaningful and efficient applications.</div>  
