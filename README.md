@@ -1,4 +1,4 @@
-![githubcover](https://github.com/aarjun8060/aarjun8060/blob/main/githubcover.jpg)
+![githubcover](https://github.com/aarjun8060/aarjun8060/blob/main/arnjun.png)
   
 
 ### <div align="center">Hey there! 👋 I'm Arjun Singh, a software developer passionate about building meaningful and efficient applications.</div>  
